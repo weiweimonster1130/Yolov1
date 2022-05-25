@@ -1,1 +1,1 @@
-# Yolov1
+The shape of the output of model is (None, 1470) 
